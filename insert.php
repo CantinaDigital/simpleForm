@@ -1,6 +1,6 @@
 <?php
 /* Attempt MySQL server connection.*/
-$link = mysqli_connect("localhost", "root", "", "mndz_gaspass");
+$link = mysqli_connect("localhost", "root", "", "simpleDB");
  
 // Check connection
 if($link === false){
